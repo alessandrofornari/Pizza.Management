@@ -1,7 +1,3 @@
-# Pizza.Management
-Web API to manage Pizza orders. 
-
-
 **WELCOME TO PIZZA MANAGEMENT API**
 
 Before starting the application, please run the Migrations Scripts in: src\Infrastructure\Persistence\MigrationScripts
