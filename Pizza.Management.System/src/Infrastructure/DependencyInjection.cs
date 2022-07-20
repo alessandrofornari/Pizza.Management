@@ -6,8 +6,7 @@ using System.Data;
 using Microsoft.Data.SqlClient;
 using Pizza.Management.Domain.PizzaManagement.Repository;
 using Pizza.Management.Domain.PizzaManagement;
-using Pizza.Management.Infrastructure.Persistence.PizzaManagementManagement.Repository;
-using Pizza.Management.Infrastructure.Persistence.CustomerManagementManagement.Repository;
+using Pizza.Management.Infrastructure.Persistence.PizzaManagement.Repository;
 
 namespace Pizza.Management.Infrastructure
 {

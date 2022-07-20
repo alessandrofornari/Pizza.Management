@@ -4,7 +4,7 @@ using Pizza.Management.Domain.PizzaManagement.Repository;
 using System;
 using System.Threading.Tasks;
 
-namespace Pizza.Management.Infrastructure.Persistence.CustomerManagementManagement.Repository
+namespace Pizza.Management.Infrastructure.Persistence.PizzaManagement.Repository
 {
     public class CustomerRepository : ICustomerRepository
     {

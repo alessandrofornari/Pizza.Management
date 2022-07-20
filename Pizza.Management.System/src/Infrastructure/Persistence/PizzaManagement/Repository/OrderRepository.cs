@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Pizza.Management.Infrastructure.Persistence.PizzaManagementManagement.Repository
+namespace Pizza.Management.Infrastructure.Persistence.PizzaManagement.Repository
 {
     public class OrderRepository : IOrderRepository
     {
