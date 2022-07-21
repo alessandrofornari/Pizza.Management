@@ -5,7 +5,7 @@ namespace Pizza.Management.Domain.DDDBases
     {
         public virtual TKey Id { get; protected set; }
 
-        public virtual byte[] Version { get; protected set; }
+        public virtual byte[]? Version { get; protected set; }
     }
 
     public abstract class Aggregate

@@ -4,7 +4,7 @@ namespace Pizza.Management.Domain.PizzaManagement.Entities
 {
     public class Customer : Aggregate<int>
     {
-        public virtual string Name { get; protected set; }
+        public virtual string? Name { get; protected set; }
 
         protected Customer() { }
 

@@ -9,7 +9,7 @@ namespace Pizza.Management.Domain.PizzaManagement.Entities
     public class Order : Aggregate<int>
     {
         //TODO: Add ValueObjects
-        public virtual string Code { get; protected set; }
+        public virtual string? Code { get; protected set; }
 
         public virtual int CustomerId { get; protected set; }
 

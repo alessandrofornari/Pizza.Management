@@ -50,8 +50,6 @@ namespace Pizza.Management.WebUI
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-                app.UseDatabaseErrorPage();
-
                 app.UseSwagger();
                 app.UseSwaggerUI(options =>
                 {
